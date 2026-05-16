@@ -1,14 +1,14 @@
 # Projeto-poo-java
-# 🚀 Projeto POO em Java - Sistema de Biblioteca e Banco
-
-## 📚 Descrição
+# Projeto POO em Java - Sistema de Biblioteca e Banco
+#ESTUDANTE: LEVI MANUEL ALBERTO 
+## Descrição
 Projeto desenvolvido para a disciplina de **Linguagem de Programação Java** - Engenharia Informática - UNIKIVI
 
-## 📁 Estrutura
+##  Estrutura
 - `biblioteca/` - Sistema de empréstimo de livros
 - `banco/` - Sistema bancário com herança
 
-## 🚀 Como Executar
+## Como Executar
 
 ### Biblioteca
 ```bash
